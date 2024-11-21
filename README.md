@@ -194,3 +194,57 @@ real    0m31.498s
 user    0m19.186s
 sys     0m6.403s
 kushal@colorado:~/src/angular$ 
+
+
+
+
+kushal@colorado:~/src/angular/mycontacts$ time ng add @angular/material
+✔ Determining Package Manager
+  › Using package manager: yarn
+✔ Searching for compatible package version
+  › Found compatible package version: @angular/material@19.0.0.
+✔ Loading package information from registry
+✔ Confirming installation
+✔ Installing package
+✔ Choose a prebuilt theme name, or "custom" for a custom theme: Azure/Blue         [Preview: https://material.angular.io?theme=azure-blue]
+✔ Set up global Angular Material typography styles? yes
+✔ Include the Angular animations module? Include and enable animations
+UPDATE package.json (1105 bytes)
+✔ Packages installed successfully.
+UPDATE src/app/app.config.ts (428 bytes)
+UPDATE angular.json (2850 bytes)
+UPDATE src/index.html (519 bytes)
+UPDATE src/styles.scss (181 bytes)
+
+real    1m34.255s
+user    0m15.900s
+sys     0m2.282s
+kushal@colorado:~/src/angular/mycontacts$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
