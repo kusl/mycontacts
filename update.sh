@@ -59,6 +59,10 @@ yarn run ng update
 # Build the Angular project
 yarn run ng build
 
+rm -rf docs/*
+
+cp -r dist/mycontacts/* docs/
+
 # Fetch the latest changes from the remote repository
 git fetch
 
