@@ -16,10 +16,10 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have the 'mycontacts' title`, () => {
+  it(`should have the 'My Contacts' title by default`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('mycontacts');
+    expect(app.title).toEqual('My Contacts');
   });
 
   it('should render title', () => {
