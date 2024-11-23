@@ -57,7 +57,7 @@ yarn
 yarn run ng update
 
 # Build the Angular project
-yarn run ng build
+yarn run ng build --base-href=mycontacts
 
 rm -rf docs/*
 
