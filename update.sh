@@ -61,7 +61,7 @@ yarn run ng build
 
 rm -rf docs/*
 
-cp -r dist/mycontacts/* docs/
+cp -r dist/mycontacts/browser/* docs/
 
 # Fetch the latest changes from the remote repository
 git fetch
