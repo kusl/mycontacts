@@ -3,6 +3,10 @@
 # Record the start date and time
 date
 
+source ~/.nvm/nvm.sh
+
+nvm use lts
+
 # Navigate to the project directory
 cd ~/src/angular/mycontacts/
 
