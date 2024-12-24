@@ -3328,9 +3328,9 @@ domhandler@^5.0.2, domhandler@^5.0.3:
     domelementtype "^2.3.0"
 
 domutils@^3.0.1, domutils@^3.1.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/domutils/-/domutils-3.2.0.tgz#895db10256d7d6631bd9cb368e38e5110fde3448"
-  integrity sha512-pmjBRsZD5Fz3XR8NlM1zTBDlHjB5OvLjMkGMGHrLabzoECJNPPOCiCNEgSSLQn2pYIOO4Ytfia7zIehRiit+sQ==
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/domutils/-/domutils-3.2.1.tgz#b39f4c390a1ae6f6a2c56a5f5a16d6438b6bce28"
+  integrity sha512-xWXmuRnN9OMP6ptPd2+H0cCbcYBULa5YDTbMm/2lvkWvNA3O4wcW+GvzooqBuNM8yy6pl3VIAeJTUUWUbfI5Fw==
   dependencies:
     dom-serializer "^2.0.0"
     domelementtype "^2.3.0"
