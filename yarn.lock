@@ -5573,11 +5573,12 @@ npm-package-arg@^12.0.0:
     validate-npm-package-name "^6.0.0"
 
 npm-packlist@^10.0.0:
-  version "10.0.1"
-  resolved "https://registry.yarnpkg.com/npm-packlist/-/npm-packlist-10.0.1.tgz#236853e6ebff06e70fedd7a6a054f553afe19023"
-  integrity sha512-vaC03b2PqJA6QqmwHi1jNU8fAPXEnnyv4j/W4PVfgm24C4/zZGSVut3z0YUeN0WIFCo1oGOL02+6LbvFK7JL4Q==
+  version "10.0.2"
+  resolved "https://registry.yarnpkg.com/npm-packlist/-/npm-packlist-10.0.2.tgz#b64877552bc9bf756c10a1795baa436f3d226370"
+  integrity sha512-DrIWNiWT0FTdDRjGOYfEEZUNe1IzaSZ+up7qBTKnrQDySpdmuOQvytrqQlpK5QrCA4IThMvL4wTumqaa1ZvVIQ==
   dependencies:
     ignore-walk "^8.0.0"
+    proc-log "^5.0.0"
 
 npm-pick-manifest@^10.0.0:
   version "10.0.0"
