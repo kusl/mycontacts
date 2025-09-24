@@ -5198,9 +5198,9 @@ media-typer@^1.1.0:
     tslib "^2.0.0"
 
 memfs@^4.6.0:
-  version "4.43.1"
-  resolved "https://registry.yarnpkg.com/memfs/-/memfs-4.43.1.tgz#57c30d4c39eb71fa733d3cdab546fa42417a57eb"
-  integrity sha512-iOed8Yfg7Vv7qufaQGGBfGIONPWK9myKgt0VBTJPBU1Tm22S/ta0t85RtivplJ3oVkm5j+NcLdyj94NoyJI2sQ==
+  version "4.45.0"
+  resolved "https://registry.yarnpkg.com/memfs/-/memfs-4.45.0.tgz#f9a0c0251577096936b65b056a1c9243c08d9f32"
+  integrity sha512-WoPv4D4/pZ2ai3l+XPxi6w+r1mPHQK2B9iWEXUq860tVlg1GX0gMC9wIMnGiN0ZIquskZ+1Neq8hzsXHMa1Rhg==
   dependencies:
     "@jsonjoy.com/json-pack" "^1.11.0"
     "@jsonjoy.com/util" "^1.9.0"
