@@ -4452,9 +4452,9 @@ hasown@^2.0.2:
     function-bind "^1.1.2"
 
 hono@^4.11.4:
-  version "4.12.12"
-  resolved "https://registry.yarnpkg.com/hono/-/hono-4.12.12.tgz#1f14b0ffb47c386ff50d457d66e706d9c9a7f09c"
-  integrity sha512-p1JfQMKaceuCbpJKAPKVqyqviZdS0eUxH9v82oWo1kb9xjQ5wA6iP3FNVAPDFlz5/p7d45lO+BpSk1tuSZMF4Q==
+  version "4.12.13"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-4.12.13.tgz#10234a8cc0516abc493b58c5457a2d0cbd5998b9"
+  integrity sha512-cURhqIxgqO41Ae6/UthPZlsLxMRhRnkF1bY3no8b7YI4nP3klwag/fTfWT+YZAdq8UyusypunAVwl4AkTe++QQ==
 
 hosted-git-info@^9.0.0:
   version "9.0.2"
