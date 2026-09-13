@@ -6866,9 +6866,9 @@ zod@4.4.3:
   integrity sha512-ytENFjIJFl2UwYglde2jchW2Hwm4GJFLDiSXWdTrJQBIN9Fcyp7n4DhxJEiWNAJMV1/BqWfW/kkg71UDcHJyTQ==
 
 "zod@^3.25 || ^4.0", zod@^4.0.10:
-  version "4.6.3"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-4.6.3.tgz#6003d0ef8334133480028e0647bb93907d95b46e"
-  integrity sha512-qTMC0QXIpf4iH+G0rCJl6ZjKiFpqAU9++JDN8tqts3KP58MWeJU/in9tDccsHqlOolCIrBKsiPXR8vCLhe4QhA==
+  version "4.6.4"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-4.6.4.tgz#1466178e4d8f9cedac31d093ccb7a1f0f97c99dc"
+  integrity sha512-AXSD6hvGdvRjajG/l1cC+d6IrhH+sjmPKtYeQdJIK8MFJl3LyClzS+o/YsVC+zQZPupAaeH5skwwm8YqYH7BqA==
 
 zone.js@~0.15.0:
   version "0.15.1"
