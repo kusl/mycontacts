@@ -6001,9 +6001,9 @@ sax@^1.2.4:
   integrity sha512-42tBVwLWnaQvW5zc4HbZrTuWccECCZfBi92FDuwtqxasH+JbPB3/FOKb1m222K42R4WxuxzzMsTswfzgtSu64Q==
 
 schema-utils@^4.0.0, schema-utils@^4.2.0, schema-utils@^4.3.3:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-4.4.0.tgz#fbc4f90ab5047f01a9c8b07347e74f2cdb567067"
-  integrity sha512-ZzWFVzFgyRHi/T2Ecxm37lL6J9+hZO0P9L7LCuLxAbC6XWxkvxcaQBCXhQxMGn/Tdt9nD7zIBk0ELwhMQ3UEDg==
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-4.5.0.tgz#aaf8d588bd2b19511175175a5222baef648c009c"
+  integrity sha512-zJlMCZ0cAR5p/Y4oVpRoqioDMJcGxaXRrQ/4rP4WyR84vc5z/DolXdbvXeDpTwbtocDFr2rhPqHPErDCUtz2kA==
   dependencies:
     "@types/json-schema" "^7.0.15"
     ajv "^8.20.0"
