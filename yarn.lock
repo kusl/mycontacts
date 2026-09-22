@@ -5388,9 +5388,9 @@ ora@9.4.1:
     string-width "^8.1.0"
 
 ordered-binary@^1.5.3:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/ordered-binary/-/ordered-binary-1.6.1.tgz#5ac240ea719d6a0e6d4f0485385d3f9cb1cd4432"
-  integrity sha512-QkCdPooczexPLiXIrbVOPYkR3VO3T6v2OyKRkR1Xbhpy7/LAVXwahnRCgRp78Oe/Ehf0C/HATAxfSr6eA1oX+w==
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/ordered-binary/-/ordered-binary-1.6.2.tgz#705821f835a9c35aac4a92726e6b762d88954911"
+  integrity sha512-BY+qgDArmYpvvmij141xbkB4Cw8RFLBQM5Zj4MODFb1SyXBRE/xO4Xj/QWbR7aUEBxbkjuNdsFVCL2TmbYrlNg==
 
 oxc-parser@0.142.0:
   version "0.142.0"
