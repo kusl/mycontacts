@@ -6247,9 +6247,9 @@ webpack-merge@6.0.1:
     wildcard "^2.0.1"
 
 webpack-sources@^3.0.0, webpack-sources@^3.5.1:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-3.5.1.tgz#76c2418486dcc02b2aa0694c104176c2858fe84a"
-  integrity sha512-jyuiGJdtvY434z5bUZrjz67v76/ePNvFZTp9Mdz29IlH4+GPsgyGjiv0fKI+M7BdkU6ADjulUcKAd3tUK3WlEw==
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-3.5.2.tgz#f7377b40b241336448f35c572396abe1d63a53ae"
+  integrity sha512-ycBMOBAiZPtRcp1AoPAClkBuNB8SyHicj7gMJH90LD1QxUtyhEpZ8sZ55yI87zz0EL49zskBu5ptnaps2+hZaA==
 
 webpack-subresource-integrity@5.1.0:
   version "5.1.0"
