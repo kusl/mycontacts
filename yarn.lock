@@ -4086,9 +4086,9 @@ icss-utils@^5.0.0, icss-utils@^5.1.0:
   integrity sha512-soFhflCVWLfRNOPU3iv5Z9VUdT44xFRbzjLsEzSr5AQmgqPMTHdU3PMT1Cf1ssx8fLNJDA1juftYl+PUcv3MqA==
 
 immutable@^5.1.5:
-  version "5.1.10"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-5.1.10.tgz#0b7eb66f4abb8073449dad6ead9f98167256c007"
-  integrity sha512-Uu72qZXUtm+n98uML3Xr6pVFHl4xnmeCuAsrm0VqFlQim/Ib6NrPSJLpx6CrZ/G6DnoGaCUgtx8gY+o+ovxnCw==
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-5.2.0.tgz#3e5696eb24440869f81df532f28e17ed5c080b19"
+  integrity sha512-u1aDbE79y64hkiY7K3npTBoTgLcgXK8MkJgwKO15SoN1bZS0su2d0QBhlb/Va/YxLbbU03CoIZvsPUOVcMedDA==
 
 import-fresh@^3.3.0:
   version "3.3.1"
@@ -6332,9 +6332,9 @@ webpack-dev-middleware@8.5.0:
     ws "^8.18.3"
 
 webpack-dev-middleware@^8.0.3:
-  version "8.6.0"
-  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-8.6.0.tgz#7d83f6816a6e09534790b20b46d269a98fd3d906"
-  integrity sha512-gDtuNFvzUys4RSkLAjXFCSbKz/MYIrCR9oXcIOnv4vFTmGsArddZoCb9LKlKWZO/JVL0COgK6hFBGPOt6EBg2Q==
+  version "8.6.1"
+  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-8.6.1.tgz#9d87e3947488c614ffdb7ea63d21590d32d9a742"
+  integrity sha512-XU+DA98yi8FpeI0zPEEki2t4cYKoFOf6PmXl+ocBZ/VXcxFfzeFGK48SZIuFy0o5opnRPVdDGTb71Gy102eiGg==
   dependencies:
     memfs "^4.68.2"
     mime-db "^1.54.0"
