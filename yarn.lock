@@ -3519,14 +3519,14 @@ empathic@^2.0.1:
   integrity sha512-AnfC1ATldl49/cvZdLPDjBfrRNwbDO05aibiOtzQu3qtlbJtomNLhF30HEtn/7iBz50dlMECqATo3fG0LrdEgw==
 
 encodeurl@^2.0.0:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/encodeurl/-/encodeurl-2.0.2.tgz#6327ad110d75856d4106ca396431f7e702c40610"
-  integrity sha512-ddmxiyS6ETq/v5/+mdA4fykK7JgEmqcShrGmQFTaKf5o43tL8XLuMzNLLsspuIC3/qGupS7Ci2TF+feJRkYY0w==
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/encodeurl/-/encodeurl-2.0.3.tgz#d3895ecc5f498ae0b8840bcf670e1fcaf519f44d"
+  integrity sha512-mIteYONiEfc4xWf2F1WXovh1c8npzS00vNeiUPdwFF+QlVJni+gNvpQltLMQhob8rew/bWWc/bGTuUr0EUGt0w==
 
 encodeurl@~1.0.2:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/encodeurl/-/encodeurl-1.0.3.tgz#1cff55735726609133da18fe14fb89ea8d199400"
-  integrity sha512-+fJBWq727Q95HcN9heYd69iKTsWPAz4ASPbawvphyHhtDZoO+q+eYNBHCk0hW1b9/+z7w6HMrw70pFsfC3XjSg==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/encodeurl/-/encodeurl-1.0.4.tgz#270ec4e3856879e63805684688c39f4eddd21c06"
+  integrity sha512-ImAQpWtQZKdkUxvj9CMNzB8M4IGg0DkRTZzmOHqgVFrf71JDmUacbt+iKljfIpD2yHcxI+HR76d8bwvdvtSvGA==
 
 engine.io-parser@~5.2.1:
   version "5.2.3"
