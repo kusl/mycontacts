@@ -182,9 +182,9 @@
     zod "4.6.6"
 
 "@angular/common@^22.0.0":
-  version "22.2.7"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-22.2.7.tgz#065f14bad0972621aba9a398c4c64df57c5605b6"
-  integrity sha512-b8AVxcL6sCvO4JPYp36ULuKywI25Xhbo+5UiAu6vScJ+kNVX4po0SCIj8TTGx3yfYVNK4+ovDDrqEisyE22YHQ==
+  version "22.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-22.3.0.tgz#a25a55f085e0b4ce3a2b1b88b8290978d8c51688"
+  integrity sha512-bM49PPn/W1GaW9dqqS3n+JfQ7q3Jz7/gBFQV3t6hY45dPYyTcWW0WupM4QLuPWMrcYVRCc2+VnZt7Wihuqx1xQ==
   dependencies:
     tslib "^2.3.0"
 
@@ -210,16 +210,16 @@
     tslib "^2.3.0"
 
 "@angular/core@^22.0.0":
-  version "22.2.7"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-22.2.7.tgz#b4af8c67ef1d0e78d7652d5767183f679b455ca9"
-  integrity sha512-6Wj1u20WjcSTkNya9wjy2sFbvITgu4q++89srBg4NroPQwoeVIpP03aEpnbhFTQ4hGbZxV2i4leAYzhdvMVQ5Q==
+  version "22.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-22.3.0.tgz#bbedf91e4d31e01353ec1e049364d03ec6aa3733"
+  integrity sha512-wGXoO1eiBa5xPF7Y+Vm9eVj7W7x7drRv3StF2HubXX6l/osaIxeQc9ewaHaWl/teywr/LlGblu5ClKE65wF0Zw==
   dependencies:
     tslib "^2.3.0"
 
 "@angular/forms@^22.0.0":
-  version "22.2.7"
-  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-22.2.7.tgz#18879c8c14bf062c7e78efe62755bd0c4499c541"
-  integrity sha512-CVFFIUGveKK2cckjFaT0Km6bEItCX2Wr6FsK3B16D0ieambBtQ8d1ZrDrHqkNNbefBv0OERi3Mr1+jw+b/0n5A==
+  version "22.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-22.3.0.tgz#6c9d0626fd0f5354efe273b3eacf87832c190f75"
+  integrity sha512-FHl4I8sYf8ZilX5a5xuxy+fmwmlOlj8oMj5z3KxhgPIMODSrMSacfHVs3cwaxxRxnsUEKRxv6mZiWRgDg17kqA==
   dependencies:
     "@standard-schema/spec" "^1.0.0"
     tslib "^2.3.0"
@@ -247,9 +247,9 @@
     tslib "^2.3.0"
 
 "@angular/router@^22.0.0":
-  version "22.2.7"
-  resolved "https://registry.yarnpkg.com/@angular/router/-/router-22.2.7.tgz#33b24ed2b332b363e62d8b6760f3918bb932b5f9"
-  integrity sha512-YXdVe0Mpw7jzlpBCJeim9c6/RZ6pTaogT7a0T/Wvl/KLOBbof1OVwO52wzXn/ukJr3o+7W2rZnMae4ostpReKQ==
+  version "22.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/router/-/router-22.3.0.tgz#6d920cbf11984a0242936bfb20a319873a1b83aa"
+  integrity sha512-YrU3YG615f7645Lqrpq6uvtrqIQpbEh9zrzdvMgB9I0oovZbeqE/mQAn+6zQR+yFJQRSbKQkk8UxcVZsVcWJyQ==
   dependencies:
     tslib "^2.3.0"
 
@@ -5981,9 +5981,9 @@ socket.io@^4.7.2:
     socket.io-parser "~4.2.4"
 
 "source-map-js@>=0.6.2 <2.0.0", source-map-js@^1.0.2, source-map-js@^1.2.1, source-map-js@^1.2.2:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.2.tgz#79fb88d97535a21cb27162cb05d211b67acea4ab"
-  integrity sha512-KGj/8Y43x35aZVDtt+J4mK1hoLGHULMYfSkODJNQjNDC3oW1PqPoxMwo0pLUsWM/UEGzON/NxeHywEfNXNP3Vw==
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.3.tgz#4cf1e31a10db87e8234840ebc2b85a255cf7705e"
+  integrity sha512-xj+WrAkyv5Qp+t7r9N5HvCBu7g1qOe6CKRNpq22X1GGcPEQADFU54v5qsPVs3/vrUFQ7XivFrcAVKA2stI0kWA==
 
 source-map-loader@5.0.0:
   version "5.0.0"
