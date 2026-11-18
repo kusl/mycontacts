@@ -5785,9 +5785,9 @@ sax@^1.2.4:
   integrity sha512-42tBVwLWnaQvW5zc4HbZrTuWccECCZfBi92FDuwtqxasH+JbPB3/FOKb1m222K42R4WxuxzzMsTswfzgtSu64Q==
 
 schema-utils@^4.0.0, schema-utils@^4.2.0, schema-utils@^4.3.3, schema-utils@^4.5.0, schema-utils@^4.6.0:
-  version "4.8.4"
-  resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-4.8.4.tgz#9798e60ebd7d0520686a6b43a5ac5b72961ea0d5"
-  integrity sha512-av+A29EjwJZIFBYSe/2Y1geYr6xznn7GRA76uiGfgJPaZvICNfGbItbetRdXDi5UJyEpx3ybNUJK7+HbABWrDw==
+  version "4.8.5"
+  resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-4.8.5.tgz#aa5abf4653e45af6a4c7c0ab7ef11d6f18ffcf22"
+  integrity sha512-K1RRP7aTUAY2lGXNzPwjMK6AMMzbETdpF3pTPMEnH/RrpmPx6K1X47/gSebrV+1I9pRcgpwZwqpYBlyZAsliiw==
   dependencies:
     "@types/json-schema" "^7.0.15"
     ajv "^8.20.0"
@@ -6384,9 +6384,9 @@ webpack-merge@6.0.1:
     wildcard "^2.0.1"
 
 webpack-sources@^3.0.0, webpack-sources@^3.6.0:
-  version "3.7.0"
-  resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-3.7.0.tgz#6c145ac83f8220ef20d4b01b9e7d5c15b1598b09"
-  integrity sha512-PdUhbCycwEgiS1hB/FBDksWKg/ashAIuJKqwdbPn8/dFVgU5LxQiBvG0js6VRRIzPujMrStYCczywp82P0KWng==
+  version "3.7.1"
+  resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-3.7.1.tgz#f8d91f5ae9f5d4940c67333283044a7d80100480"
+  integrity sha512-mcxs7A2LsEdwsNqQburqS4QHPR2Ca3NGplUakn6J5GPQvnVZ4oD4IM4FJcT3f8AVN2e2EsjuIVxKj4rorHvyuQ==
 
 webpack-subresource-integrity@5.1.0:
   version "5.1.0"
