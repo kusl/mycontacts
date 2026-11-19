@@ -3546,9 +3546,9 @@ engine.io-parser@~5.2.1:
   integrity sha512-HqD3yTBfnBxIrbnM1DoD6Pcq8NECnh8d4As1Qgh0z5Gg3jRRIqijury0CL3ghu/edArpUYiYqQiDUQBIs4np3Q==
 
 engine.io@~6.6.0:
-  version "6.6.11"
-  resolved "https://registry.yarnpkg.com/engine.io/-/engine.io-6.6.11.tgz#05203f76be9c63489cdf52aadab4200a201315fd"
-  integrity sha512-z34mGpLoY/82ZbkX1LqGMIaf3wjVMPL6gVC681QDqnmzJ26synI8qAE32P+a7UazmpJZ8UGrFIeAavgRfXzYrg==
+  version "6.6.12"
+  resolved "https://registry.yarnpkg.com/engine.io/-/engine.io-6.6.12.tgz#9c078945fa8869911d4084bbe68ef2fc56b52399"
+  integrity sha512-o6WqrYV9WuxuGxpaPLibbqnvgO7YUpVf2Z6hYJNpizzNYCxQbAEu5w9Cm0aW8u4FIefnWCdGM1uZwor6iDRERg==
   dependencies:
     "@types/cors" "^2.8.12"
     "@types/node" ">=10.0.0"
