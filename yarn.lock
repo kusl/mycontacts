@@ -2591,9 +2591,9 @@
     undici-types "~8.9.0"
 
 "@types/node@^22.9.1":
-  version "22.20.6"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.20.6.tgz#9fcc4ce808b308bda410ae741bb7ff99b76f5477"
-  integrity sha512-vDsVXyIC4vhuGfe+eMMqJ5VP2BMqeWcbvMIoHIeE0nbY6qyrJSnxBpw2zIL7/tv55/Zf7lzKbdlq+lq+wt5N5w==
+  version "22.20.7"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.20.7.tgz#7896a7b5a9f7e977d74ced8c5b91610ee569fc84"
+  integrity sha512-F/Mcc4pD3YwXQCG50hb8BjB5RmrOere6hge7n2XHf0V8tpkZOVEjwYv9Ql7n0MpMn8Bv7+q12P9w6UHsBm0Sfw==
   dependencies:
     undici-types "~6.21.0"
 
